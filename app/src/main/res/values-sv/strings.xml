@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EventFinder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tvWelcomeText">Välkommen till EventFinder! Klicka på knapparna nedan för att söka efter evenemang.</string>
+    <string name="btnSearchArtist">Sök artist</string>
+    <string name="btnShowNearbyEvents">Visa närliggande evenemang</string>
+    <string name="btnSearchCity">Sök evenemang i stad</string>
+    <string name="tvArtistSearch">Skriv artistens namn och klicka på Sök för att lista alla kommande evenemang med den artisten.</string>
+    <string name="hintSearchArtist">Artist</string>
+    <string name="btnSearch">Sök</string>
+    <string name="btnShowOnMap">Visa evenemang på kartan</string>
+    <string name="tvCitySearchText">Ska du resa någonstans? Skriv in stad, datum och kategori nedan för att se vad som händer i den staden.</string>
+    <string name="hintCity">Stad</string>
+    <string name="hintDate">Datum</string>
+    <string name="toastEnterArtistName">Vänligen skriv in ett namn</string>
+    <string name="lvTitleText">Titel:</string>
+    <string name="lvCityText">Stad:</string>
+    <string name="lvCountryText">Land:</string>
+    <string name="lvDateText">Datum:</string>
+    <string name="lvVenueName">Platsnamn:</string>
+    <string name="lvVenueAddress">Platsadress:</string>
+    <string name="alertDialogClose">Stäng</string>
+    <string name="eventInfoText">Evenemangsinformation</string>
+    <string name="progDialogLoading">Laddar...</string>
+    <string name="noDescriptionFound">Ingen beskrivning tillgänglig</string>
+
+</resources>
